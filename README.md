@@ -7,4 +7,4 @@
 - [协作文档创建指南](https://github.com/OpenMindClub/Share/wiki/HbDoc)
 
 
-> 开智学堂[官网](http://www.eopenmind.com/)/[微信订阅号](http://top.aiweibang.com/u/290766)/[微博](http://weibo.com/openmindclub)/[豆列](http://www.douban.com/people/openmindclub/doulists/all)
+> 开智学堂[官网](http://www.openmindclub.com/)/[微信订阅号](http://top.aiweibang.com/u/290766)/[微博](http://weibo.com/openmindclub)/[豆列](http://www.douban.com/people/openmindclub/doulists/all)
