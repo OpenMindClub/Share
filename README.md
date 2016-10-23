@@ -1,6 +1,6 @@
 # 开智学堂资源、经验共享库
 
-内容主要存放于 wiki ，共建请参考：
+内容主要存放于 [wiki](https://github.com/OpenMindClub/Share/wiki) ，共建请参考：
 
 - [缩写规约](https://github.com/OpenMindClub/Share/wiki/HbShortRule)
 - [团队文档命名规约](http://ishanshan.top/community/HbDocName.html)
