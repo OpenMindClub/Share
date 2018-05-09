@@ -1,4 +1,4 @@
-# 开智学堂资源、经验共享库
+# 开智学堂&安人心智集团资源、经验共享库
 
 内容主要存放于 [wiki](https://github.com/OpenMindClub/Share/wiki) ，共建请参考：
 
